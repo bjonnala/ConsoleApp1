@@ -8,9 +8,10 @@ C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
-C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojAssemblyReference.cache
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CopyComplete
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
 C:\Users\rjonnala\source\repos\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb

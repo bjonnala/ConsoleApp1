@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Client.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Jil" Version="2.16.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.0" />
   </ItemGroup>
