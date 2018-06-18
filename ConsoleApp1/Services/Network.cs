@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.Net.Http;
-using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,6 +8,13 @@ namespace ConsoleApp1
 {
     public class Network : INetwork
     {
+
+        /* DAL Class which implements INetwork interface. This class handles all the data access by calling endpoints via HttpClient.  */
+        /* In the future, if we need to swap out to any database we just need to modify this class without touching any dependents on this class. The dependency
+         * is broken with interfaces. */
+
+
+
         private static HttpClient client = new HttpClient();
         private readonly string baseURL = string.Empty;
         private readonly string apiKey = string.Empty;

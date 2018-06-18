@@ -9,6 +9,8 @@ namespace ConsoleApp1.DAL
 {
     public class Data : IData
     {
+        // Client class to handle calls to DAL layer. //
+
         private readonly INetwork _utils;
         public Data(INetwork utils)
         {
